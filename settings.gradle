@@ -1,0 +1,1 @@
+include ':app', ':androidlibsvm-release', ':pocketsphinx-android-5prealpha-release', ':svm', ':libsvm', ':pocketsphinx', ':models'
